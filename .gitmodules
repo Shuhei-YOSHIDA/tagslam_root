@@ -6,9 +6,6 @@
 	path = src/tagslam_test
 	url = git@github.com:berndpfrommer/tagslam_test.git
 	branch = master
-[submodule "src/apriltag"]
-	path = src/apriltag
-	url = git@github.com:versatran01/apriltag.git
 [submodule "src/flex_sync"]
 	path = src/flex_sync
 	url = git@github.com:daniilidis-group/flex_sync.git
@@ -20,3 +17,6 @@
 [submodule "src/tagslam_viz"]
 	path = src/tagslam_viz
 	url = git@github.com:berndpfrommer/tagslam_viz.git
+[submodule "src/apriltag"]
+	path = src/apriltag
+	url = https://github.com/Shuhei-YOSHIDA/apriltag.git
