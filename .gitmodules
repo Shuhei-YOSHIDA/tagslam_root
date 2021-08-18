@@ -1,7 +1,3 @@
-[submodule "src/tagslam"]
-	path = src/tagslam
-	url = git@github.com:berndpfrommer/tagslam.git
-	branch = master
 [submodule "src/tagslam_test"]
 	path = src/tagslam_test
 	url = git@github.com:berndpfrommer/tagslam_test.git
@@ -20,3 +16,6 @@
 [submodule "src/apriltag"]
 	path = src/apriltag
 	url = https://github.com/Shuhei-YOSHIDA/apriltag.git
+[submodule "src/tagslam"]
+	path = src/tagslam
+	url = https://github.com/Shuhei-YOSHIDA/tagslam.git
